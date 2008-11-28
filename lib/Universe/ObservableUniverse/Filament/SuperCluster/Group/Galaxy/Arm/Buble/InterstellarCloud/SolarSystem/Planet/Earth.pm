@@ -1,8 +1,8 @@
-package Universe::SuperCluster::Cluster::Galaxy::SolarSystem::Planet::Earth;
+package Universe::ObservableUniverse::Filament::SuperCluster::Group::Galaxy::Arm::Buble::InterstellarCloud::SolarSystem::Planet::Earth;
 
 =head1 NAME
 
-Universe::SuperCluster::Cluster::Galaxy::SolarSystem::Planet::Earth
+Universe::ObservableUniverse::Filament::SuperCluster::Group::Galaxy::Arm::Buble::InterstellarCloud::SolarSystem::Planet::Earth
 
 =head1 DESCRIPTION
 
