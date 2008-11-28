@@ -22,6 +22,10 @@ Any
 =cut
 
 sub AUTOLOAD {
+    return 'Mostly harmless';
+}
+
+sub ultimate_answer {
     return 42;
 }
 
