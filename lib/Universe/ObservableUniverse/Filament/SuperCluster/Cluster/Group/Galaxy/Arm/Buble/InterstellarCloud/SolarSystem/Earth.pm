@@ -8,7 +8,7 @@ Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Ar
 
 Mostly harmless
 
-=head SYNOPSIS
+=head1 SYNOPSIS
 
     use print Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Arm::Buble::InterstellarCloud::SolarSystem::Earth;
     
@@ -32,6 +32,12 @@ sub AUTOLOAD {
     return 'Mostly harmless';
 }
 
+=head2 ultimate_answer
+
+ultimate answer to the ultimate question
+
+=cut
+
 sub ultimate_answer {
     return 42;
 }
@@ -49,5 +55,9 @@ me to find out the right location path.
 =head1 AUTHOR
 
 Jozef Kutej
+
+=head1 COPYRIGHT
+
+:)
 
 =cut
