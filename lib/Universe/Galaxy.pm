@@ -1,20 +1,8 @@
 package Universe::Galaxy;
 
-use warnings;
-use strict;
-
 =head1 NAME
 
 Universe::Galaxy - the missing piece in CPAN
-
-=head1 VERSION
-
-Version 0.01
-
-=cut
-
-our $VERSION = '0.01';
-
 
 =head1 SYNOPSIS
 
@@ -23,6 +11,13 @@ our $VERSION = '0.01';
 =head1 DESCRIPTION
 
 Not too useful for the moment but it was a missing piece in the CPAN.
+
+=cut
+
+use warnings;
+use strict;
+
+our $VERSION = '0.02';
 
 =head1 METHODS
 

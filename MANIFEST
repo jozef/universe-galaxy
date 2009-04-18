@@ -1,7 +1,7 @@
 Build.PL
 Changes
 lib/Universe/Galaxy.pm
-lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Buble/InterstellarCloud/SolarSystem/Earth.pm
+lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Bubble/InterstellarCloud/SolarSystem/Earth.pm
 Makefile.PL
 MANIFEST			This list of files
 META.yml
@@ -15,4 +15,4 @@ t/perltidy.conf
 t/pod-coverage.t
 t/pod-spell.t
 t/pod.t
-t/universe-observableuniverse-filament-supercluster-cluster-group-galaxy-arm-buble-interstellarcloud-solarSystem-planet-earth.t
+t/universe-observableuniverse-filament-supercluster-cluster-group-galaxy-arm-bubble-interstellarcloud-solarSystem-planet-earth.t
