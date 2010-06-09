@@ -47,6 +47,10 @@ sub ultimate_answer {
 
 __END__
 
+=head1 SEE ALSO
+
+L<aliased>
+
 =head1 CREDITS
 
 Thanks to Pauline Barmby from University of Western Ontario for helping
