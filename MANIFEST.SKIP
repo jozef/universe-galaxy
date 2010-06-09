@@ -30,3 +30,4 @@
 
 ^tmp/
 .*\.tar\.gz
+^MYMETA.yml$

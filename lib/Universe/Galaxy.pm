@@ -17,7 +17,7 @@ Not too useful for the moment but it was a missing piece in the CPAN.
 use warnings;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 METHODS
 
